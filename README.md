@@ -2,4 +2,4 @@ Projekt wykonany podczas kursu wykorzystuje technologię CSS Grid do tworzenia r
 sekcje tekstowe, obrazy i stopka. Projekt demonstruje praktyczne zastosowanie reguł siatki, takich jak definiowanie wierszy, kolumn i obszarów, co pozwoliło na stworzenie estetycznego i łatwego 
 w nawigacji interfejsu użytkownika.
 
-Live:
+Live: https://lessyl.github.io/Grid---Diamonds-Gold-Money/
